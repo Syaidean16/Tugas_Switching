@@ -7,6 +7,8 @@
 # SWITCHING MENNGUNAKAN CISCO
 
 # Langka pertama buka Cisco Tracer lalu buat User Profile masukan nama dan e-mail.
+![WhatsApp Image 2025-03-03 at 12 29 26_b9c78506](https://github.com/user-attachments/assets/b20c426c-8140-4c18-be4e-4e87edaae61e)
+
 
 # kemudian buatlah rangkaian seperti pada gambar dibawah :
 ![WhatsApp Image 2025-02-25 at 22 11 50_567999a6](https://github.com/user-attachments/assets/e9e1f5f6-b1d8-4c0a-af28-cd771edaf71e)
